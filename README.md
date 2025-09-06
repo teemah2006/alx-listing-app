@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+## ALX Listing App.
+
+creating an Airbnb clone listing page
+
+## Folder structure
+- components/: This directory will contain files that define a reusable Card and button component that will be used across the project to display information.
+
+- interfaces/index.ts: Defines all TypeScript interfaces related to the project. 
+
+- constants/index.ts: Set up constants to store any reusable data or strings such as API URLs, configuration settings, or UI text.
+
+- public/assets: stores necessary images and SVG files that will be used across the project (such as placeholder property images).
 
 ## Getting Started
 
